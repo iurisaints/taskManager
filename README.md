@@ -4,8 +4,7 @@ For use that you have to install in terminal: pip3 install psutil pandas
 
 After that you have to open the project folder with terminal and type: python3 taskman.py
 
-All project is documented (every single function) for you understand and use in your personal project. This project consist in see the open tasks and the mb the task is occuping.
-
+The whole project is documented (every single function) for you to understand and use in your personal project. This project consists in seeing the open tasks and the mb the task is taking up.
 
 
 <h4>pt_BR:</h4>
