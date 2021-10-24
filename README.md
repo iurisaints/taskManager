@@ -1,5 +1,5 @@
 # taskManager
-en_US:
+<h4>en_US:</h4>
 For use that you have to install in terminal: pip3 install psutil pandas
 
 After that you have to open the project folder with terminal and type: python3 taskman.py
@@ -8,7 +8,7 @@ All project is documented (every single function) for you understand and use in 
 
 
 
-pt_BR:
+<h4>pt_BR:</h4>
 Para utilizar você tem que instalar no terminal: pip3 install psutil pandas
 
 Depois disso você tem que abrir a pasta do projeto no terminal e digitar: python3 taskman.py
